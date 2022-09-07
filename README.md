@@ -1,5 +1,5 @@
 ### Hi there, the name is Nevin 👋
 
-- 👯 I’m currently a SWE Intern at TD Bank Group
+- 👯 Prev SWE Intern @TD Bank Group
 - 📫 How to reach me: nbullywo@uwaterloo.ca
 -->

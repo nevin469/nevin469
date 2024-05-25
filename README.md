@@ -1,4 +1,4 @@
-### Hi there, the name is Nevin 👋
+### Hi there, my name is Nevin 👋
 
 - 📫 How to reach me: nbullywo@uwaterloo.ca
 -->
